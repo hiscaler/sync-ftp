@@ -1,0 +1,7 @@
+[ftp]
+ip =
+port = 22
+username =
+password =
+remote_dir =
+local_dir =
